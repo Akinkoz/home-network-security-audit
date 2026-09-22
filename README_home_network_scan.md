@@ -35,13 +35,10 @@ remediation recommendations — as practice for real-world vulnerability assessm
 Add screenshots of your scan output here, e.g.:
 
 ```
-![Nmap scan results And OpenVas findings]
+```
 <img width="1269" height="952" alt="image" src="https://github.com/user-attachments/assets/39ea0d22-a3a9-4470-98ea-75c6eb110930" />
 <img width="1269" height="579" alt="d1b50bfa-efb5-40bb-aec6-3002b9ffd4bf" src="https://github.com/user-attachments/assets/e5af24f7-aa1e-476c-b576-f54e9ad46cfc" />
 
-
-
-```
 
 ## What I Learned
 A few sentences on what this taught you — e.g. how scan results translate into
