@@ -41,8 +41,7 @@ Add screenshots of your scan output here, e.g.:
 
 
 ## What I Learned
-A few sentences on what this taught you — e.g. how scan results translate into
-real risk, how to prioritise findings, anything that surprised you.
+This project turned into a genuine lesson in troubleshooting, not just scanning. Setting the VM to Bridged (instead of the default NAT) networking mode was a key fix — without it, Nmap could only see VirtualBox's isolated virtual network rather than real devices. I also learned that feed syncs, package updates, and locked files are common friction points in security tooling, and that checking whether a process is genuinely still active (via ps aux, service status, or logs) is a much more reliable way to tell "stuck" from "slow" than just watching a progress bar. Beyond the tooling, the scan itself reinforced how even "boring" low-severity findings like ICMP/TCP timestamp disclosure still matter — small pieces of information like these are exactly what attackers chain together during reconnaissance.
 
 ## Disclaimer
 This scan was performed only against devices and networks I own or have
