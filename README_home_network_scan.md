@@ -27,22 +27,20 @@ remediation recommendations — as practice for real-world vulnerability assessm
 
 ## Findings
 
-| # | Host/Service | Finding | Risk Level | Recommendation |
-|---|---------------|---------|------------|-----------------|
-| 1 | e.g. Router (192.168.1.1) | e.g. Telnet port open | High | Disable Telnet, use SSH instead |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
+<img width="1269" height="579" alt="d1b50bfa-efb5-40bb-aec6-3002b9ffd4bf" src="https://github.com/user-attachments/assets/e5af24f7-aa1e-476c-b576-f54e9ad46cfc" />
 
-*(Fill in 3–5 real findings from your scan. Risk levels: Low / Medium / High / Critical.)*
+
 
 ## Screenshots
 Add screenshots of your scan output here, e.g.:
 
 ```
-![Nmap scan results](screenshots/nmap-scan.png)
-![OpenVAS findings](screenshots/openvas-report.png)
+![Nmap scan results And OpenVas findings]
+<img width="1269" height="952" alt="image" src="https://github.com/user-attachments/assets/39ea0d22-a3a9-4470-98ea-75c6eb110930" />
+<img width="1269" height="579" alt="d1b50bfa-efb5-40bb-aec6-3002b9ffd4bf" src="https://github.com/user-attachments/assets/e5af24f7-aa1e-476c-b576-f54e9ad46cfc" />
+
+
+
 ```
 
 ## What I Learned
